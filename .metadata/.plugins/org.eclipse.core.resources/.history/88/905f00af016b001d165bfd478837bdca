@@ -1,0 +1,14 @@
+package com.java.predicate;
+
+import java.util.function.Predicate;
+
+public class PradicateEx {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Predicate<Integer> p= a-> (a>= 18);
+		
+		System.out.println(p.test(18));
+	}
+
+}

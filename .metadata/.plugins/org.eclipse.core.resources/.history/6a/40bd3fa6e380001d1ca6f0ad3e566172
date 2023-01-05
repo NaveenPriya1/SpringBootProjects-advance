@@ -1,0 +1,12 @@
+package com.corejava.day1;
+
+public class Fibonachi {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+       int i=1,n=13,firstTerm=0,secondTerm=1;
+       
+       
+	}
+
+}

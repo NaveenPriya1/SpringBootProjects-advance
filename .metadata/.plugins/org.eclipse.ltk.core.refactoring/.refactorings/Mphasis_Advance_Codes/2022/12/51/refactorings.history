@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;visited&apos; in &apos;com.advance.core.Frequency.main(...)&apos; to &apos;visisted&apos;&#x0D;&#x0A;- Original project: &apos;Mphasis_Advance_Codes&apos;&#x0D;&#x0A;- Original element: &apos;com.advance.core.Frequency.main(String[]).visited&apos;&#x0D;&#x0A;- Renamed element: &apos;visited&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;visited&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.advance.core{Frequency.java[Frequency~main~\[QString;@visited!228!242!232!238!I!0!false" name="visisted" references="true" stamp="1670925000572" version="1.0"/>
+</session>

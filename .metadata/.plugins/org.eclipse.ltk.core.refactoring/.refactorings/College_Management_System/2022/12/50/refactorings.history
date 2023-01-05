@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.tcs.hospital.Entity&apos; to &apos;com.tcs.hospital.entity&apos;&#x0D;&#x0A;- Original project: &apos;TcsHospital&apos;&#x0D;&#x0A;- Original element: &apos;TcsHospital/src/main/java/com.tcs.hospital.Entity&apos;&#x0D;&#x0A;- Renamed element: &apos;TcsHospital/src/main/java/com.tcs.hospital.entity&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.tcs.hospital.Entity&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.tcs.hospital.Entity" name="com.tcs.hospital.entity" qualified="false" references="true" stamp="1670482074895" textual="false" version="1.0"/>
+</session>

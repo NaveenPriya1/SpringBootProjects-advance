@@ -1,0 +1,6 @@
+1670753301015	Rename package 'com.insurancep.policies'
+1670839752407	Rename package 'com.unknown.customer'
+1670839770006	Rename type 'UnknownCustomer'
+1670839785660	Rename type 'UnknownCustomerController'
+1670839806228	Rename type 'UnknownCustomerService'
+1670839819038	Rename type 'UnknownCustomerRepo'

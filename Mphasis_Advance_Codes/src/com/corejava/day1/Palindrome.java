@@ -1,0 +1,30 @@
+package com.corejava.day1;
+
+import java.util.Scanner;
+
+public class Palindrome {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter the word you want to check ");
+		String s=sc.nextLine();
+		
+		//length
+		System.out.println("length of the word is "+s.length()+"\n");
+		
+		//to uppercase
+		System.out.println("In uppercase "+s.toUpperCase()+"\n");
+		
+		String rev="";
+		
+		for(int i=s.length()-1;i>=0;i--) {
+			rev+=s.charAt(i);
+		}
+		if(s.equals(rev)) 
+		System.out.println("Given word is palindrome");
+		else
+			System.out.println("Not palindrome");
+	}
+
+}
